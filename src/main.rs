@@ -3,7 +3,6 @@ use std::sync::Mutex;
 #[macro_use]
 extern crate lazy_static;
 
-extern crate gdk;
 extern crate gtk;
 
 use gtk::prelude::*;
